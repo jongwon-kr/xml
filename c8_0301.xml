@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<?xml-stylesheet type="text/xsl" href="c8_0301.xsl"?>
+<booklist>
+  <book id="b1" kind="computer">
+    <title>XML 중급</title>
+    <author>이 규미</author>
+    <publisher>Freelec</publisher>
+    <price>25000</price>
+  </book>
+  <book2 id="b2" kind="computer">
+    <title>JAVA개발자를 위한 XML</title>
+    <author>신 민철</author>
+    <publisher>Freelec</publisher>
+    <price>25000</price>
+  </book2>
+</booklist>
